@@ -47,17 +47,17 @@ table {
 	border-spacing: 0;
 }
 
-div.main{
+.main{
 	width: 1000px;
 	margin: 0 auto;
 	box-sizing: border-box;
 }
 
-div.full {
+.full {
 	width: 50%;
 }
 
-div.half {
+.half {
 	width: 24%;
 }
 
